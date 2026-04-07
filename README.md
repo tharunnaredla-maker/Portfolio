@@ -192,7 +192,7 @@
   <!-- NAV -->
   <nav id="navbar">
     <div class="nav-inner">
-      <span style="font-size:5.1rem;font-weight:700;" class="text-gradient">Tharun Naredla</span>
+      <span style="font-size:3.1rem;font-weight:700;" class="text-gradient">Tharun Naredla</span>
       <div class="nav-links">
         <a href="#about">About</a>
         <a href="#experience">Experience</a>
